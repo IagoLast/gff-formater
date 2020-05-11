@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import parser from './parser';
 
@@ -34,7 +33,7 @@ function App() {
       <p>
         Generates GFF output from different program outputs (FGenesh, GeneID and GeneScan)
       </p>
-      <textarea className="Input" value={value} onChange={e => setValue(e.target.value)} id="input" ></textarea>
+      <textarea placeholder="Paste the output of the program here. Copy only the given exon data" className="Input" value={value} onChange={e => setValue(e.target.value)} id="input" ></textarea>
 
       <label htmlFor="offset"> Offset:
         <input id="offset" type="number" value={offset} onChange={e => setOffset(e.target.value)} />
