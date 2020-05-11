@@ -5,7 +5,7 @@ import parser from './parser';
 
 function App() {
   const [value, setValue] = useState('');
-  const [offset, setOffset] = useState(43659560);
+  const [offset, setOffset] = useState(0);
   const [parsed, setParsed] = useState('Formated GFF output will appear here');
   const [chr, setChr] = useState('chr22');
   const [program, setProgram] = useState('fgenesh');
