@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.01a201ad.chunk.css",
-    "main.js": "/static/js/main.fb24a193.chunk.js",
-    "main.js.map": "/static/js/main.fb24a193.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.22c58d8d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.22c58d8d.js.map",
-    "static/js/2.4146d3d5.chunk.js": "/static/js/2.4146d3d5.chunk.js",
-    "static/js/2.4146d3d5.chunk.js.map": "/static/js/2.4146d3d5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cea7e42868c9a65ff7e655ca40eb3aad.js": "/precache-manifest.cea7e42868c9a65ff7e655ca40eb3aad.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.01a201ad.chunk.css.map": "/static/css/main.01a201ad.chunk.css.map",
-    "static/js/2.4146d3d5.chunk.js.LICENSE.txt": "/static/js/2.4146d3d5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/gff-formater/build/static/css/main.01a201ad.chunk.css",
+    "main.js": "/gff-formater/build/static/js/main.d03236a5.chunk.js",
+    "main.js.map": "/gff-formater/build/static/js/main.d03236a5.chunk.js.map",
+    "runtime-main.js": "/gff-formater/build/static/js/runtime-main.fe4f51aa.js",
+    "runtime-main.js.map": "/gff-formater/build/static/js/runtime-main.fe4f51aa.js.map",
+    "static/js/2.4146d3d5.chunk.js": "/gff-formater/build/static/js/2.4146d3d5.chunk.js",
+    "static/js/2.4146d3d5.chunk.js.map": "/gff-formater/build/static/js/2.4146d3d5.chunk.js.map",
+    "index.html": "/gff-formater/build/index.html",
+    "precache-manifest.b2f15fde2a70a8a2a9cacb43f82b19f0.js": "/gff-formater/build/precache-manifest.b2f15fde2a70a8a2a9cacb43f82b19f0.js",
+    "service-worker.js": "/gff-formater/build/service-worker.js",
+    "static/css/main.01a201ad.chunk.css.map": "/gff-formater/build/static/css/main.01a201ad.chunk.css.map",
+    "static/js/2.4146d3d5.chunk.js.LICENSE.txt": "/gff-formater/build/static/js/2.4146d3d5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gff-formater/build/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.22c58d8d.js",
+    "static/js/runtime-main.fe4f51aa.js",
     "static/js/2.4146d3d5.chunk.js",
     "static/css/main.01a201ad.chunk.css",
-    "static/js/main.fb24a193.chunk.js"
+    "static/js/main.d03236a5.chunk.js"
   ]
 }
