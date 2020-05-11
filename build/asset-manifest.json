@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gff-formater/static/css/main.01a201ad.chunk.css",
-    "main.js": "/gff-formater/static/js/main.5d5ef037.chunk.js",
-    "main.js.map": "/gff-formater/static/js/main.5d5ef037.chunk.js.map",
-    "runtime-main.js": "/gff-formater/static/js/runtime-main.1753948a.js",
-    "runtime-main.js.map": "/gff-formater/static/js/runtime-main.1753948a.js.map",
-    "static/js/2.4146d3d5.chunk.js": "/gff-formater/static/js/2.4146d3d5.chunk.js",
-    "static/js/2.4146d3d5.chunk.js.map": "/gff-formater/static/js/2.4146d3d5.chunk.js.map",
-    "index.html": "/gff-formater/index.html",
-    "precache-manifest.9b1b2fd7e4b729436543faf8fa7c2bde.js": "/gff-formater/precache-manifest.9b1b2fd7e4b729436543faf8fa7c2bde.js",
-    "service-worker.js": "/gff-formater/service-worker.js",
-    "static/css/main.01a201ad.chunk.css.map": "/gff-formater/static/css/main.01a201ad.chunk.css.map",
-    "static/js/2.4146d3d5.chunk.js.LICENSE.txt": "/gff-formater/static/js/2.4146d3d5.chunk.js.LICENSE.txt"
+    "main.css": "/gff-formater/build/static/css/main.01a201ad.chunk.css",
+    "main.js": "/gff-formater/build/static/js/main.edfc0d46.chunk.js",
+    "main.js.map": "/gff-formater/build/static/js/main.edfc0d46.chunk.js.map",
+    "runtime-main.js": "/gff-formater/build/static/js/runtime-main.fe4f51aa.js",
+    "runtime-main.js.map": "/gff-formater/build/static/js/runtime-main.fe4f51aa.js.map",
+    "static/js/2.4146d3d5.chunk.js": "/gff-formater/build/static/js/2.4146d3d5.chunk.js",
+    "static/js/2.4146d3d5.chunk.js.map": "/gff-formater/build/static/js/2.4146d3d5.chunk.js.map",
+    "index.html": "/gff-formater/build/index.html",
+    "precache-manifest.9360cc40f1dbbaaf57c1eebde6e89fa7.js": "/gff-formater/build/precache-manifest.9360cc40f1dbbaaf57c1eebde6e89fa7.js",
+    "service-worker.js": "/gff-formater/build/service-worker.js",
+    "static/css/main.01a201ad.chunk.css.map": "/gff-formater/build/static/css/main.01a201ad.chunk.css.map",
+    "static/js/2.4146d3d5.chunk.js.LICENSE.txt": "/gff-formater/build/static/js/2.4146d3d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1753948a.js",
+    "static/js/runtime-main.fe4f51aa.js",
     "static/js/2.4146d3d5.chunk.js",
     "static/css/main.01a201ad.chunk.css",
-    "static/js/main.5d5ef037.chunk.js"
+    "static/js/main.edfc0d46.chunk.js"
   ]
 }
