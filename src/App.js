@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1> GFF Formatter</h1>
+      <h1> GFF Converter</h1>
       <p>
         Generates GFF output from different program outputs (FGenesh, GeneID and GeneScan)
       </p>
