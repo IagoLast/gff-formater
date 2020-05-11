@@ -2,7 +2,7 @@
   "name": "gff-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iagolast.github.io/gff-formater/build/",
+  "homepage": "https://iagolast.github.io/gff-formater",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
